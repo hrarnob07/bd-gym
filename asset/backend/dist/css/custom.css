@@ -1,0 +1,41 @@
+
+.btn.btn-flat {
+    margin-right: 1px;
+    border-radius: 2px;
+}
+
+.content-header > .breadcrumb {
+    float: left;
+}
+
+.help-block {
+    color: #dd4b39
+}
+
+.skin-black-light .sidebar-menu>li {
+    border-bottom: 1px dashed #dcdcdc87
+}
+
+.pagination {
+    margin: 0;
+}
+
+.pagination>li>a,
+.pagination>li>span {
+    padding: 5px 10px;
+}
+
+.skin-black-light .sidebar-menu>li.header {
+    text-transform: capitalize
+}
+
+.category-dropdown {
+    margin-right: 5px;
+}
+.category-dropdown .btn{
+    padding: 3.9px 12px;
+}
+
+.category-dropdown  .dropdown-menu {
+    background-color: #f1f1f1;
+}
